@@ -6,7 +6,7 @@
 <br><br>
 
 - 🔭 I’m currently working on MERN, Next.js
-- 🌱 I’m currently learning Backend + Cloud
+- 🌱 I’m currently learning Cloud (AWS)
 - 💬 Ask me anything about JavaScript
 - 💻 Intro: https://rb.gy/la9ap4
 - 😄 Portfolio: https://rb.gy/jpd0yx
