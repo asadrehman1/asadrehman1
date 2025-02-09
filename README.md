@@ -23,7 +23,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,next,typescript,nodejs,tailwind,mui,redux,mongo,redis,prisma,mysql,postman,figma,docker,aws,githubactions,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,nodejs,tailwind,mui,redux,mongo,redis,prisma,mysql,postman,jest,figma,docker,aws,githubactions,github,git)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadrehman1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadrehman1" /></p>
 
