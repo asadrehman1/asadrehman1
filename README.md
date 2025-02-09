@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br>
+<br><br>
 
 - 🔭 I’m currently working on MERN, Next.js
 - 🌱 I’m currently learning Backend + Cloud
