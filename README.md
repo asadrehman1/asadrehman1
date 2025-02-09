@@ -8,7 +8,8 @@
 - 💬 Ask me anything about JavaScript
 - 💻 Intro: https://rb.gy/la9ap4
 - 😄 Portfolio: https://rb.gy/jpd0yx
-- 😄 LeetCode: https://leetcode.com/u/asadrehman7890661/
+- 🎓 Certification: https://www.udemy.com/certificate/UC-32accb4d-5df3-4b44-8494-37c4a2904ccb/
+- 🏆 LeetCode: https://leetcode.com/u/asadrehman7890661/
 - 📫 How to reach me: asadstdev655@gmail.com
 - ⚡ Fun fact: Caffeine to Code Converter
   
