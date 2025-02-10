@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on MERN, Next.js
 - 🌱 I’m currently learning Cloud (AWS)
 - 💬 Ask me anything about JavaScript
-- 💻 Intro: https://rb.gy/la9ap4
 - 😄 Portfolio: https://rb.gy/jpd0yx
 - 🎓 Certification: https://shorturl.at/G2JZI
 - 🏆 LeetCode: https://leetcode.com/u/asadrehman7890661/
