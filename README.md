@@ -31,8 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadrehman1&&theme=tokyonight" alt="asadrehman1" /></p>
 
-## GitHub Trophies
+## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=asadrehman1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### Top Contributed Repo
+### Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=asadrehman1&limit=5&theme=dark&combine_all_yearly_contributions=true)
