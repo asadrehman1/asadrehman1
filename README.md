@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on MERN, Next.js
 - 🌱 I’m currently learning Cloud (AWS)
 - 💬 Ask me anything about JavaScript
-- 😄 Portfolio: https://rb.gy/jpd0yx
+- 🚀 Portfolio 1: https://asaddev.vercel.app/
+- 😄 Portfolio 2: https://rb.gy/jpd0yx
 - 🎓 Certification: https://shorturl.at/G2JZI
 - 🏆 LeetCode: https://leetcode.com/u/asadrehman7890661/
 - 📫 How to reach me: asadstdev655@gmail.com
