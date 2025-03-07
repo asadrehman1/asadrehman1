@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Cloud (AWS)
 - 💬 Ask me anything about JavaScript
 - 🚀 Portfolio 1: https://asaddev.vercel.app/
-- 😄 Portfolio 2: https://rb.gy/jpd0yx
+- 😄 Portfolio 2: https://pdf.ac/3s4sEV 
 - 🎓 Certification: https://shorturl.at/G2JZI
 - 🏆 LeetCode: https://leetcode.com/u/asadrehman7890661/
 - 📫 How to reach me: asadstdev655@gmail.com
