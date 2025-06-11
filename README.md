@@ -12,7 +12,7 @@
 - 😄 Portfolio 2: https://pdf.ac/3s4sEV 
 - 🎓 Certification: https://shorturl.at/G2JZI
 - 🏆 LeetCode: https://leetcode.com/u/asadrehman7890661/
-- 📫 How to reach me: asadstdev655@gmail.com
+- 📫 How to reach me: asadrehman7890661@gmail.com
 - ⚡ Fun fact: Caffeine to Code Converter
   
 <h3 align="left">Connect with me:</h3>
