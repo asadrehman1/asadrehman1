@@ -11,6 +11,7 @@
 - 🚀 Portfolio 1: https://asaddev.vercel.app/
 - 🎓 Certification: https://surl.lu/ukwwvr
 - 🏆 LeetCode: https://leetcode.com/u/asadrehman7890661/
+- 📦 npm: https://www.npmjs.com/~asadrehman21
 - 📫 How to reach me: asadrehman7890661@gmail.com
 - ⚡ Fun fact: Caffeine to Code Converter
   
