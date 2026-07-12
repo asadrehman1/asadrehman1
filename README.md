@@ -5,8 +5,8 @@
 
 <br><br>
 
-- 🔭 I’m currently working on MERN, Next.js
-- 🌱 I’m currently learning Cloud (AWS)
+- 🔭 I'm currently building with Next.js, TanStack Start, Design Systems, Analytics, Observability, and AI-powered engineering workflows.
+- 🌱 I'm currently learning to architect AI-powered applications and automated workflows.
 - 💬 Ask me anything about JavaScript
 - 🚀 Portfolio: https://asaddev.vercel.app/
 - 🎓 Certification: https://surl.lu/ukwwvr
