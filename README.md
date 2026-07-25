@@ -63,7 +63,7 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 
 ## Core Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,redux,graphql,prisma,mysql,mongodb,redis,docker,aws,githubactions,git,figma,jest,vite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,redux,graphql,prisma,mysql,mongodb,redis,docker,aws,githubactions,git,figma,jest,vite&perline=20)](https://skillicons.dev)
 
 ---
 
