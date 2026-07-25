@@ -168,3 +168,64 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 ![](https://komarev.com/ghpvc/?username=asadrehman1&label=Profile%20Views&color=0e7490&style=flat)
 
 </div>
+
+
+
+
+################hellooo
+👋 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+
+I'm a Senior Software Engineer from Pakistan with 3+ years of experience building scalable web applications, customer-facing platforms, and full-stack solutions.
+
+I mainly work with React, Next.js, TypeScript, and Node.js, but I also enjoy working across backend systems, cloud infrastructure, testing, analytics, and AI-powered products.
+
+I love building software that is fast, reliable, easy to maintain, and solves real business problems.
+
+💻 𝗪𝗛𝗔𝗧 𝗜 𝗪𝗢𝗥𝗞 𝗪𝗜𝗧𝗛
+
+• Frontend Development:
+  React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, modern UI architectures, reusable component libraries, and design systems.
+
+• Full Stack Development:
+  Node.js, Express.js, Hono.js, REST APIs, authentication, PostgreSQL, MySQL, MongoDB, Redis, and Prisma.
+
+• Cloud & DevOps:
+  AWS, Docker, GitHub Actions, CI/CD, Vercel, and Cloudflare Workers for deploying and maintaining scalable applications.
+
+• Testing & Quality:
+  Jest, React Testing Library, Playwright, and Vitest to build reliable applications with strong testing practices.
+
+• Analytics & Product Engineering:
+  Datadog, FullStory, GA4, Google Tag Manager, Segment, AB Tasty, and experimentation platforms to build measurable products.
+
+• AI Engineering:
+  Building AI-powered applications, automation workflows, RAG systems, and integrations using modern AI tools and APIs.
+
+🚀 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
+
+• Built and maintained production applications used by real customers.
+• Developed scalable frontend architectures using React and Next.js.
+• Created reusable components and shared libraries to improve development speed.
+• Designed backend services and APIs for modern web applications.
+• Improved application reliability through testing, monitoring, and performance optimisation.
+• Worked with analytics, experimentation, and observability tools to make data-driven product decisions.
+
+🧪 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗣𝗣𝗥𝗢𝗔𝗖𝗛
+
+I believe in writing clean and maintainable code, testing what matters, keeping solutions simple, and continuously improving the way teams build software.
+
+I'm always exploring better engineering practices, modern frameworks, cloud architecture, and AI tools that improve developer productivity.
+
+🎯 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗢𝗣𝗘𝗡 𝗧𝗢
+
+• Senior Frontend Engineer roles
+• React.js / Next.js Developer roles
+• Full Stack Engineer roles
+• Software Engineer opportunities
+• AI Engineering opportunities
+
+Open to remote opportunities and roles across Pakistan, Europe, the Middle East, and North America.
+
+🤝 𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
+
+Always happy to connect with engineers, recruiters, and people building interesting products.
