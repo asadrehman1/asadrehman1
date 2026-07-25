@@ -121,7 +121,7 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=asadrehman1&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadrehman1&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=asadrehman1&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadrehman1&theme=tokyonight)
 
