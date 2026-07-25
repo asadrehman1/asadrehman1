@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm Asad Rehman
 
-### Senior Software Engineer building scalable web applications, cloud solutions and AI powered products.
+### Senior Software Engineer building scalable web applications, cloud solutions and AI-powered products.
 
-**Full Stack Engineering • React • Next.js • Node.js • TypeScript • AWS • AI Engineering**
+**Full Stack Engineering • React • Next.js • Node.js • TypeScript • AWS • Testing • AI Engineering**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asaddev.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://asaddev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-rehman-363636415/)
@@ -23,7 +23,7 @@
 
 I'm a Software Engineer from Pakistan with experience building production web applications from frontend to backend.
 
-Most of my work revolves around React, Next.js and TypeScript, but I also enjoy working on backend systems, APIs, databases, cloud infrastructure and AI powered applications. I like solving real product problems, improving developer experience and building software that's easy to scale and maintain.
+Most of my work revolves around React, Next.js and TypeScript, but I also work across backend systems, APIs, databases, cloud infrastructure and automated testing. I enjoy solving real product problems, improving developer experience and building software that's easy to scale, maintain and test.
 
 Outside of shipping features, I enjoy learning new technologies, contributing to open source and exploring better engineering workflows using AI.
 
@@ -36,6 +36,7 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 | **Product Engineering** | Build scalable web applications using React, Next.js, TanStack Start and TypeScript |
 | **Backend Engineering** | Develop REST APIs, authentication, databases and server side applications with Node.js |
 | **Cloud & DevOps** | Deploy and maintain applications using AWS, Docker, GitHub Actions, CI/CD and Vercel |
+| **Testing & Quality** | Write unit, integration and end to end tests using Jest, React Testing Library, Playwright and Vitest |
 | **Analytics & Experimentation** | Build measurable products with GA4, GTM, Segment, Datadog, FullStory and AB Tasty |
 | **AI Engineering** | Build AI powered applications, RAG systems, OpenAI integrations and developer workflows |
 
@@ -44,18 +45,19 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 # Experience Highlights
 
 * Built and maintained production web applications serving high traffic customer journeys.
-* Developed reusable design systems and component libraries used across multiple applications.
-* Built backend services and APIs using Node.js, Express, Prisma and PostgreSQL.
+* Designed reusable design systems and shared component libraries used across multiple applications.
+* Developed backend services and APIs using Node.js, Express, Prisma and PostgreSQL.
 * Worked with AWS, Docker and CI/CD pipelines to deploy and maintain production systems.
+* Built and maintained unit, integration and end to end test suites using Jest, React Testing Library, Playwright and Vitest.
 * Integrated analytics, observability and experimentation platforms including Datadog, Segment, GA4, GTM, FullStory, Didomi and AB Tasty.
-* Debugged complex production issues using logs, traces, monitoring and session replay.
-* Built AI powered developer tools and automation workflows using OpenAI APIs, LangChain and RAG.
+* Diagnosed complex production issues using logs, traces, monitoring and session replay.
+* Built AI powered developer tools and automation workflows using OpenAI APIs and modern AI frameworks.
 
 ---
 
 # Engineering Principles
 
-> Keep things simple • Build for scale • Measure before optimising • Automate repetitive work • Ship confidently
+> Build for reliability • Keep things simple • Test what matters • Measure before optimising • Automate repetitive work • Ship confidently
 
 ---
 
@@ -63,7 +65,7 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 
 ## Core Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,redux,graphql,prisma,mysql,mongodb,redis,docker,aws,githubactions,git,figma,jest,vite&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,tailwind,redux,graphql,prisma,mysql,mongodb,redis,docker,aws,githubactions,git,figma,jest,vite,vitest&perline=20)](https://skillicons.dev)
 
 ---
 
@@ -96,6 +98,17 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 
 ---
 
+## Testing & Quality
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Testing_Library-RTL-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-End_to_End-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-Unit_Testing-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+</p>
+
+---
+
 # Featured Work
 
 | Project | Description |
@@ -110,7 +123,8 @@ Outside of shipping features, I enjoy learning new technologies, contributing to
 
 * Building AI powered applications and developer tools
 * Deepening cloud architecture and distributed systems knowledge
-* Exploring TanStack Start and modern full stack frameworks
+* Exploring modern full stack frameworks including TanStack Start
+* Improving testing strategies and developer experience
 * Publishing more open source libraries and technical content
 
 ---
